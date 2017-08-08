@@ -1,4 +1,4 @@
-package abstraction1;
+package abstraction;
 
 public class TestMyPhone {
 
@@ -16,7 +16,5 @@ public class TestMyPhone {
 		
 		PhoneFunctions function = new MyPhone();
 		function.call();
-
 	}
-
 }

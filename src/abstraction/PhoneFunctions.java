@@ -1,4 +1,4 @@
-package abstraction1;
+package abstraction;
 
 public interface PhoneFunctions {
 	
